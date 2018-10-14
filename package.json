@@ -1,5 +1,5 @@
 {
-  "name": "postcss-px-to-viewport",
+  "name": "@walkerZyy/postcss-px-to-viewport",
   "version": "1.0.0",
   "description": "add whitelist based on @liaoyinglong/postcss-px-to-viewport@0.0.2",
   "main": "index.js",
@@ -11,5 +11,6 @@
     "postcss": "^5.0.2"
   },
   "author": "walkerZyy",
+  "repository": "https://github.com/WalkerZyy/postcss-px-to-viewport",
   "license": "ISC"
 }
